@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0470d46b-7a5e-4bf7-9616-b933f252119e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WDZ3yS1dVKtpvYrelNrfFWlJUD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="ArrayBuySellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasks.ArrayBuySellStock" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayContainsDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasks.ArrayContainsDuplicates" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySortedRemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasks.ArraySortedRemoveDuplicates" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayUnsortedContainsDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasks.ArrayUnsortedContainsDuplicates" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasks.Program" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.ArrayBuySellStock" />
+        <item itemvalue="Application.ArrayContainsDuplicates" />
+        <item itemvalue="Application.ArrayUnsortedContainsDuplicates" />
+        <item itemvalue="Application.ArraySortedRemoveDuplicates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0470d46b-7a5e-4bf7-9616-b933f252119e" name="Default Changelist" comment="" />
+      <created>1578685931080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578685931080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="286" key="Github.ShareDialog" timestamp="1579130130542">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="503" y="286" key="Github.ShareDialog/0.23.1280.726@0.23.1280.726" timestamp="1579130130542" />
+    <state width="1218" height="209" key="GridCell.Tab.0.bottom" timestamp="1579131895486">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="167" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1578691701209" />
+    <state width="1218" height="166" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1579129471023" />
+    <state width="1218" height="209" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1579131895486" />
+    <state width="1218" height="209" key="GridCell.Tab.0.center" timestamp="1579131895485">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="167" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1578691701208" />
+    <state width="1218" height="166" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1579129471023" />
+    <state width="1218" height="209" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1579131895485" />
+    <state width="1218" height="209" key="GridCell.Tab.0.left" timestamp="1579131895484">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="167" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1578691701207" />
+    <state width="1218" height="166" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1579129471022" />
+    <state width="1218" height="209" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1579131895484" />
+    <state width="1218" height="209" key="GridCell.Tab.0.right" timestamp="1579131895485">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="167" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1578691701208" />
+    <state width="1218" height="166" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1579129471023" />
+    <state width="1218" height="209" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1579131895485" />
+    <state width="1218" height="209" key="GridCell.Tab.1.bottom" timestamp="1579131895488">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="209" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1579068925769" />
+    <state width="1218" height="209" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1579131895488" />
+    <state width="1218" height="209" key="GridCell.Tab.1.center" timestamp="1579131895487">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="209" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1579068925768" />
+    <state width="1218" height="209" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1579131895487" />
+    <state width="1218" height="209" key="GridCell.Tab.1.left" timestamp="1579131895486">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="209" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1579068925768" />
+    <state width="1218" height="209" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1579131895486" />
+    <state width="1218" height="209" key="GridCell.Tab.1.right" timestamp="1579131895487">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1218" height="209" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1579068925769" />
+    <state width="1218" height="209" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1579131895487" />
+    <state x="317" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1579131988139">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="317" y="218" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1578685940673" />
+    <state x="317" y="218" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1579066082595" />
+    <state x="317" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.730@0.23.1280.730" timestamp="1579131988139" />
+    <state x="221" y="23" width="837" height="727" key="find.popup" timestamp="1579129662053">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="221" y="23" width="837" height="727" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1579129662053" />
+  </component>
+</project>
