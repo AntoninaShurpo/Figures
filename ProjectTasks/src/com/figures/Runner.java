@@ -1,6 +1,6 @@
 package com.tasks;
 
-class Program {
+class Runner {
     public static void main(String[] args) {
         Figure[] a = {
                 new Rectangle(1, 10),
